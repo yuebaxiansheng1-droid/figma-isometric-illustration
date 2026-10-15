@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Isometric Illustration"
+  short_description: "参考图驱动的可编辑轴测插画，统一空间、连续曲面、厚度、凹洞与地面"
+  default_prompt: "使用 $figma-isometric-illustration，根据我的参考图和场景要求，在指定 Figma 文件中完成可编辑的轴测插画并进行视觉验收。"
